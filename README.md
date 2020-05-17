@@ -34,7 +34,7 @@ A doc to deploy xenon.
 ### 2、系统配置
 1. 三台主机的mysql账号指定shell 为/bin/bash ，并改密码（三台机密码改成一样）：
     * chsh mysql
-    ![-w216](media/15869673332974/15871587738942.jpg)         
+           
 
     * passwd mysql
     * mysql环境变量： 从其它普通账号复制 .bash* 到mysql 用户家目录
