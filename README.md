@@ -179,9 +179,6 @@ wget https://www.percona.com/downloads/Percona-XtraBackup-LATEST/Percona-XtraBac
     
 4. 查看集群状态
     ./xenoncli cluster status
-    ![-w1091](media/15869673332974/15871651127172.jpg)
-
-上图状态为成功！
 
 ---
 
